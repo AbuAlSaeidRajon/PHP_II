@@ -15,7 +15,8 @@
 	<article class="main-content col-xs-8">
 
 
-		<?php
+		<p>
+			<?php
 
 
 
@@ -49,6 +50,7 @@
 				);
 			
 				?>
+				</p>
 
 
 	</article>

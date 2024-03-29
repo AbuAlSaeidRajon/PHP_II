@@ -1,0 +1,20 @@
+.calculator {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.calculator h2 {
+    margin-bottom: 20px;
+}
+
+.calculator input, .calculator select, .calculator button {
+    margin-bottom: 10px;
+}
+
+.calculator .result {
+    margin-top: 20px;
+}

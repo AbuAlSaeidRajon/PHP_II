@@ -42,3 +42,24 @@
     cursor: pointer;
 }
 
+.container button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.container button:hover {
+    background-color: #2980b9;
+}
+
+.result {
+    margin-top: 20px;
+    background-color: #ecf0f1;
+    padding: 10px;
+    border-radius: 5px;
+    color: #333;
+}
